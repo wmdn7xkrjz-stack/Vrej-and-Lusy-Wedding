@@ -59,14 +59,14 @@ body::before {
 }
 
 .countdown-title {
-  color: #6B1724;
+  color: #6B1724 !important;
 }
 
 .countdown {
   font-size: 28px;
   font-weight: 600;
   text-align: center;
-  color: #6B1724;
+  color: #6B1724 !important;
 }
 
 /* Header Names */
