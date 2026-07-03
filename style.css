@@ -83,7 +83,7 @@ body::before {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   font-weight: 300;
-  color: #6B1724;;
+  color: #6B1724;
   text-shadow: 1px 1px 6px rgba(0,0,0,0.5);
   margin-top: 0;
 }
@@ -92,7 +92,7 @@ body::before {
 .main-content {
   background: rgba(255, 255, 255, 0.396);
   padding: 60px 20px;
-  color: #6B1724;
+  color: #333;
   position: relative;
   z-index: 1;
 }
