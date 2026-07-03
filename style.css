@@ -59,14 +59,14 @@ body::before {
 }
 
 .countdown-title {
-  color: #fff;
+  color: #6B1724;
 }
 
 .countdown {
   font-size: 28px;
   font-weight: 600;
   text-align: center;
-  color: #fff;
+  color: #6B1724;
 }
 
 /* Header Names */
@@ -188,7 +188,7 @@ th {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   margin-bottom: 15px;
-  color: #212529;
+  color: #6B1724;
 }
 .section .venue-name {
   font-weight: 600;
