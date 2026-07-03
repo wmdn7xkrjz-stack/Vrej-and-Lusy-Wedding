@@ -187,13 +187,13 @@ th {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   margin-bottom: 15px;
-  color: #6B1724;
+  color: #333;
 }
 .section .venue-name {
   font-weight: 600;
   font-size: 24px;
   margin-bottom: 10px;
-  color: #333;
+  color:#6B1724 !imortant;;
 }
 
 /* Նկարներ - փոքրացված չափ, կոշտ offset ստվեր (card-style) */
